@@ -1,7 +1,7 @@
 # 💫 About Me:
 🔭 I’m currently freelancing and working on projects for international clients.<br/>
 👯 I’m looking to collaborate on web design and development.<br/>
-🤝 I’m seeking help with learning backend development.<br/>
+🤝 I’m seeking help with learning backend development more.<br/>
 🌱 I’m currently studying AI.<br/>
 💬 Feel free to ask me about anything.<br/>
 ⚡ Fun fact: I once built a website that attracted over 10,000 visitors in its first month!
